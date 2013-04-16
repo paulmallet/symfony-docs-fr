@@ -1,7 +1,7 @@
 MinLength
 =========
 
--- caution::
+.. caution::
 
 	La contrainte Min est dépréciée depuis la version 2.1 et sera supprimé dans Symfony 2.3.
 	Utilisez :doc:`/reference/constraints/Length` avec l'option ``min`` à la place.
